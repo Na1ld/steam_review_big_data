@@ -221,3 +221,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# === Big Data Project: дані та тимчасові файли ===
+data/
+data_temp/
+*.csv
+*.parquet
+*.zip
+.venv/
